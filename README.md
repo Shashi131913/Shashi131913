@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashi131913
+- 👋 Hi, I’m @ M Shashi Kumar 
 - 👀 I’m interested in python programming 
 - 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on 07 06 2002
